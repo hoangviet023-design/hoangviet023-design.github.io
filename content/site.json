@@ -8,7 +8,7 @@
     "lastName": "Hoang",
     "kicker": "Portfolio · Île-de-France",
     "headline": "Entrepreneur \n& Product Designer",
-    "tagline": "Je conçois des expériences fluides et utiles, à l'écran, à table et sur le tatami.",
+    "tagline": "Je conçois, je transmets et je crée des expériences qui ont du sens.",
     "skills": [
       "UX Research",
       "UI Design",
@@ -31,7 +31,7 @@
     "roles": [
       "Designer UX/UI",
       "Fondateur d'Oomori Ramen",
-      "Enseignant Vovinam · 4e dang",
+      "Enseignant 4e dang Vovinam",
       "Vidéaste & Photographe"
     ]
   },
@@ -45,31 +45,27 @@
     "title": "En bref",
     "facts": [
       {
-        "label": "Formation",
-        "value": "Ingénieur ECE Paris (2007-2012), spécialisation design, innovation & entrepreneuriat"
+        "label": "Multi-casquettes",
+        "value": "Designer produit · Entrepreneur · Photographe & vidéaste · Enseignant d’arts martiaux"
       },
       {
-        "label": "Dispo",
-        "value": "ASAP"
+        "label": "Terrain de jeu",
+        "value": "Du produit numérique à la restauration, de la création visuelle à la transmission."
       },
       {
-        "label": "Basé en",
-        "value": "Île-de-France, mobile et habitué au travail à distance"
+        "label": "ADN",
+        "value": "Curiosité · Créativité · Esprit d’initiative · Sens du collectif"
       },
       {
-        "label": "Sport",
-        "value": "Vovinam, Escalade, Volley-ball, Foot à 5,"
-      },
-      {
-        "label": "Voyage",
-        "value": "Asie (Vietnam, Singapour, Hong-Kong, Japon, Cambodge, Maldives, Sri-Lanka), Europe et Amérique du Nord"
+        "label": "Hors cadre",
+        "value": "Photographie, vidéo, voyages et découvertes : toujours à l’affût d’un nouvel angle"
       }
     ]
   },
   "restaurants": {
-    "label": "01 — Entrepreneur",
-    "title": "Oomori Ramen, deux restaurants créés de zéro",
-    "period": "Janvier 2023 — aujourd'hui · Torcy & Lésigny (77)",
+    "label": "01 - Entrepreneur",
+    "title": "Une passion devenue réalité",
+    "period": "Janvier 2023 - aujourd'hui · Torcy & Lésigny (77)",
     "intro": "Fondateur, gérant et chef cuisinier, j'ai créé et développé deux restaurants de ramen en Seine-et-Marne. J'y pilote l'équipe, les opérations, le budget et les fournisseurs, et je crée moi-même tous les contenus : photos, vidéos, storytelling et réseaux sociaux. L'expérience client y est améliorée en continu, comme un vrai produit.",
     "stats": [
       {
