@@ -129,31 +129,31 @@
     "label": "02 — Product Designer UX/UI",
     "title": "10 ans à concevoir des produits numériques",
     "period": "Octobre 2012 — décembre 2022 · ESN, Paris",
-    "intro": "Au sein d'équipes Agile pluridisciplinaires, j'ai accompagné des grands groupes et des startups sur tout le cycle de conception : ateliers UX, interviews, personas, parcours, wireframes, maquettes, tests, Design Systems et handoff aux développeurs.",
+    "intro": "Au sein d’équipes Agile pluridisciplinaires, j’ai accompagné des grands groupes comme des startups tout au long du cycle de conception produit. En collaboration étroite avec les Product Owners, les développeurs et les parties prenantes, j’ai animé des ateliers UX, mené des interviews utilisateurs, défini des personas et des parcours, conçu des wireframes et des maquettes, organisé des tests utilisateurs, structuré des Design Systems et assuré le handoff aux équipes de développement.",
     "timeline": [
       {
         "company": "Zenika",
-        "period": "Janv. 2018 — déc. 2022",
+        "period": "Janv. 2018 - déc. 2022",
         "role": "Product Designer & Manager d'équipe",
-        "description": "MVP en mode Labs pour BNP Paribas, Club Med, AXA, MNT, TF1… Création de Design Systems, structuration des méthodes Design Ops et accompagnement de l'équipe design."
+        "description": "Conception et prototypage de MVP en mode Labs pour des clients tels que BNP Paribas, Club Med, AXA, MNT et TF1, de l’exploration des besoins à la validation des concepts. Création et évolution de Design Systems pour garantir la cohérence des interfaces, structuration des pratiques Design Ops pour fluidifier la collaboration entre designers, Product Owners et développeurs, et accompagnement de l’équipe design dans l’amélioration de ses méthodes et processus de conception."
       },
       {
         "company": "SOAT",
-        "period": "Janv. 2014 — déc. 2017",
+        "period": "Janv. 2014 - déc. 2017",
         "role": "UX/UI Designer",
-        "description": "Conception d'applications mobiles et tablettes grand public (Windows Phone, Windows 8 et 10) pour des marques médias et services, des parcours jusqu'aux maquettes finales."
+        "description": "Conception d’applications mobiles et tablettes grand public pour Windows Phone, Windows 8 et Windows 10, destinées à des marques médias et des acteurs des services. Définition des parcours utilisateurs, structuration de l’architecture de l’information et réalisation des wireframes et maquettes haute fidélité, en veillant à la cohérence des interfaces, à l’ergonomie et au respect des spécificités des plateformes."
       },
       {
         "company": "vNext",
-        "period": "Oct. 2012 — déc. 2013",
+        "period": "Oct. 2012 - déc. 2013",
         "role": "UI Designer",
-        "description": "Premières armes en conception d'interfaces : applications mobiles, maquettes UI et prototypes interactifs pour des clients grand public."
+        "description": "Premières expériences en conception d’interfaces pour des clients grand public, avec la réalisation d’applications mobiles, de maquettes UI et de prototypes interactifs. Montée en compétences progressive sur la dimension UX : analyse des besoins utilisateurs, structuration des parcours, réflexion sur l’architecture de l’information et amélioration de l’ergonomie, en complément du travail visuel et de l’interactivité des interfaces."
       }
     ],
     "cases": [
       {
         "title": "Club Med EasyArrival & GMFeedback",
-        "client": "Club Med · Zenika",
+        "client": "Club Med",
         "problem": "EasyArrival permet de préparer son arrivée au village en choisissant ses services en ligne. Le socle technique étant décommissionné, il fallait refondre l'application et l'enrichir.",
         "approach": "MVP réalisé en 4 sprints, puis passage en mode delivery. En parallèle, conception de GMFeedback pour recueillir l'avis des clients après leur séjour.",
         "result": "Livré avant la saison d'hiver, en production dans les villages",
@@ -161,7 +161,7 @@
       },
       {
         "title": "CIRI2, déclaration du lobbying",
-        "client": "BNP Paribas · Zenika",
+        "client": "BNP Paribas",
         "problem": "La loi Sapin 2 impose de déclarer de façon systématique les actions de lobbying. Il fallait rendre ce processus rapide et facile pour des utilisateurs peu habitués au reporting.",
         "approach": "Conception et mise en production du MVP en 6 sprints, sous de fortes contraintes légales de calendrier.",
         "result": "MVP livré en 6 sprints",
@@ -169,7 +169,7 @@
       },
       {
         "title": "Serious game du Software Engineering Summit",
-        "client": "AXA · Zenika",
+        "client": "AXA",
         "problem": "Le rendez-vous annuel de l'IT mondial d'AXA voulait favoriser les échanges entre les équipes dev, sécurité et exploitation (DevSecOps).",
         "approach": "Conception complète (concept, contenu, marketing) d'un serious game de défis techniques, quiz et quêtes annexes, et co-animation des 3 jours de conférence.",
         "result": "250+ joueurs captivés pendant plus de 8 h",
@@ -177,7 +177,7 @@
       },
       {
         "title": "Mobiliz, plateforme militante",
-        "client": "MNT · Zenika",
+        "client": "MNT - Mutuelle Nationale Territoriale",
         "problem": "La MNT souhaitait animer la vie militante et encourager la participation de ses adhérents.",
         "approach": "Publication de contenus, débats et réactions, initiatives locales, agenda partagé, actualités et vidéos. Un MVP en mode Labs, puis une V2.",
         "result": "MVP, puis V2 : Mobiliz est en ligne",
@@ -185,7 +185,7 @@
       },
       {
         "title": "Drive, messagerie métier",
-        "client": "IWD · Zenika",
+        "client": "IWD",
         "problem": "Les clients d'IWD échangeaient leurs stratégies merchandising sur Messenger ou WhatsApp : aucune sécurité, aucune synchronisation, aucune donnée exploitable.",
         "approach": "MVP mobile en 4 sprints : discussion, contacts, partage d'images, synchronisation web et actions métier dans l'application.",
         "result": "MVP mobile livré en 4 sprints",
@@ -193,7 +193,7 @@
       },
       {
         "title": "Portail investisseur & refonte",
-        "client": "Domos FS · Zenika",
+        "client": "Domos FS",
         "problem": "Cet éditeur SaaS pour fonds d'investissement voulait valider ses pratiques de design pour un nouveau portail, puis refondre son application historique.",
         "approach": "Cadrage produit, priorisation, sensibilisation UX/UI, système de navigation transverse et maquettes interactives complètes pour les développeurs.",
         "result": "Développement fortement accéléré, solution ouverte à des clients pilotes",
@@ -201,7 +201,7 @@
       },
       {
         "title": "Ethis, plateforme de l'habitat social",
-        "client": "Delphis · Zenika",
+        "client": "Delphis",
         "problem": "Ce pôle R&D de l'habitat social avait besoin d'une plateforme pour les membres de son réseau.",
         "approach": "Co-conception et maquettage du site web et de l'extranet métier, développement, puis administration du contenu avec l'équipe marketing.",
         "result": "Plateforme ouverte aux premiers utilisateurs",
@@ -209,7 +209,7 @@
       },
       {
         "title": "Testing 360°",
-        "client": "Unify (TF1) · Zenika",
+        "client": "Unify (TF1)",
         "problem": "Unify (aufeminin, Marmiton, Doctissimo…) souhaitait cadrer un module de publication d'essais de produits.",
         "approach": "Ateliers de co-conception à distance avec les équipes métier des grandes marques du groupe : objectifs, fonctionnalités, priorisation et dossier de synthèse.",
         "result": "Démarche Design Thinking adoptée pour les projets suivants",
@@ -217,7 +217,7 @@
       },
       {
         "title": "Application de démonstration Li-Fi",
-        "client": "Lifineo · Zenika",
+        "client": "Lifineo",
         "problem": "Une startup de transmission de données par LED devait présenter sa technologie : géolocalisation indoor, messages, alertes.",
         "approach": "Ateliers de co-conception, définition du périmètre du MVP, maquettage complet et chiffrage.",
         "result": "Prototype à l'appui d'un dossier de financement BPI",
@@ -225,32 +225,42 @@
       },
       {
         "title": "La Fourchette",
-        "client": "Windows Phone 8 & Windows 8",
-        "problem": "Conception de l'interface de l'application de réservation de restaurants.",
+        "client": "TheFork - Microsoft",
+        "problem": "Conception UX/UI d’une application de réservation de restaurants pour Windows 8 : parcours utilisateurs, ergonomie et maquettes d’interface.",
+        "approach": "Animation d’ateliers de co-conception, maquettage complet des interfaces et accompagnement du développement de l’application.",
+        "result": "Application sur le Windows Store",
         "image": "images/case-lafourchette.jpg"
       },
       {
         "title": "Eurosport News",
-        "client": "Windows Phone 8",
-        "problem": "Conception de l'application d'actualité sportive.",
+        "client": "Eurosport - Microsoft",
+        "problem": "Conception UX/UI d’une application d’actualité sportive pour Eurosport, de la structuration des parcours utilisateurs à la réalisation des maquettes d’interface.",
+        "approach": "Animation d’ateliers de co-conception, maquettage complet des interfaces et accompagnement du développement de l’application.",
+        "result": "Application sur le Windows Store",
         "image": "images/case-eurosport.jpg"
       },
       {
         "title": "Le Figaro",
-        "client": "Windows 10",
-        "problem": "Conception de l'application d'information pour tablette et PC.",
+        "client": "Le Figaro - Microsoft ",
+        "problem": "Conception UX/UI de l’application d’information du Figaro pour tablettes et PC, de la définition des parcours utilisateurs à la réalisation des maquettes d’interface.",
+        "approach": "Animation d’ateliers de co-conception, maquettage complet des interfaces et accompagnement du développement de l’application.",
+        "result": "Application sur le Windows Store",
         "image": "images/case-figaro.jpg"
       },
       {
         "title": "La Poste Mobile by Universal",
-        "client": "Windows Phone 10",
-        "problem": "Conception de l'application de streaming musical.",
+        "client": "La Poste Mobile - Microsoft",
+        "problem": "Conception UX/UI d’une application de streaming musical pour La Poste Mobile, de la structuration des parcours utilisateurs à la réalisation des maquettes d’interface.",
+        "approach": "Animation d’ateliers de co-conception, maquettage complet des interfaces et accompagnement du développement de l’application.",
+        "result": "Application sur le Windows Store",
         "image": "images/case-laposte.jpg"
       },
       {
         "title": "Application interne Radio France",
-        "client": "Mobile",
+        "client": "Radio France",
         "problem": "Conception d'une application interne pour les équipes de Radio France.",
+        "approach": "Animation d’ateliers de co-conception, maquettage complet des interfaces et accompagnement du développement de l’application.",
+        "result": "Plateforme ouverte aux premiers utilisateurs",
         "image": "images/case-radiofrance.jpg"
       }
     ],
@@ -260,10 +270,8 @@
       "Personas & parcours",
       "Wireframes & prototypes",
       "Design Systems & Design Tokens",
-      "Design Ops",
       "Agile Scrum / Kanban",
       "Figma, Figma Make & FigJam AI",
-      "IA générative (Claude, ChatGPT, Gemini, Lovable)",
       "Adobe Photoshop & Premiere Pro",
       "HTML / CSS, notions de Vue.js"
     ],
@@ -284,20 +292,11 @@
         "Claude",
         "ChatGPT",
         "Gemini",
-        "Figma AI",
-        "Figma Make",
-        "FigJam AI",
+        "Figma IA",
         "Lovable",
         "GPT Image"
       ]
-    },
-    "education": [
-      {
-        "school": "ECE Paris",
-        "period": "2007 — 2012",
-        "description": "École d'ingénieurs généraliste et high-tech. Majeure santé, mineure audiovisuel & médias numériques, spécialisation design, innovation et entrepreneuriat."
-      }
-    ]
+    }
   },
   "vovinam": {
     "label": "03 — Vovinam Việt Võ Đạo",
