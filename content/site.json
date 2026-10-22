@@ -302,7 +302,7 @@
     "label": "03 — Vovinam Việt Võ Đạo",
     "title": "25 ans de pratique, l'art de transmettre",
     "rank": "4e dang",
-    "intro": "Enseignant pour adultes et enfants dans les clubs de Pontault-Combault (77) et de Noiseau (94), dont je suis aussi trésorier. J'organise des compétitions nationales et internationales, de 100 à plus de 1 000 participants, et je gère bénévolement les chaînes vidéo du club : tournage, montage et formats courts.",
+    "intro": "Enseignement du Vovinam-Việt Võ Đạo auprès d’adultes et d’enfants à Pontault-Combault et Noiseau, où j’occupe également le rôle de trésorier associatif. Organisation de compétitions nationales et internationales et d’événements réunissant de 100 à plus de 1 000 participants. Gestion bénévole de la production vidéo du club : tournage, montage et création de formats courts pour les réseaux sociaux.",
     "highlights": [
       {
         "value": "4e",
@@ -318,26 +318,27 @@
       }
     ],
     "awards": [
-      "Coupe du monde 2024 : or & argent",
-      "Coupe du monde 2018 : argent & bronze",
-      "Coupe du monde 2014 : argent & bronze",
-      "Coupe du monde 2006 : 2 × bronze",
-      "Coupe d'Europe 2022 : argent",
-      "Coupe d'Europe 2016 : or & argent",
-      "Coupe d'Europe 2008 : or"
+      "Coupe du monde 2026 - Médaille d’argent",
+      "Coupe du monde 2022 - Médaille d’Or & Argent",
+      "Coupe du monde 2018 - Médaille d'Argent & bronze",
+      "Coupe du monde 2014 - Médaille d'Argent & bronze",
+      "Coupe du monde 2006 - Double médaille de bronze",
+      "Coupe d'Europe 2024 : Médaille d’Argent",
+      "Coupe d'Europe 2018 - Médaille d’Or & Argent",
+      "Coupe d'Europe 2008 - Médaille d’Or"
     ],
     "images": [
       "images/vovinam-1.jpg"
     ]
   },
   "gallery": {
-    "label": "04 — Photo & Vidéo",
-    "title": "Le regard",
-    "intro": "Vidéaste de mariage à mon compte, créateur de contenus pour mes restaurants et pour le Vovinam, je filme et monte en autodidacte, avec une préférence pour l'émotion et les formats courts. Une passion née à JBTV, l'association audiovisuelle de l'ECE, dont j'ai été vice-président.",
+    "label": "04 - Photo & Vidéo",
+    "title": "Capturer l’instant",
+    "intro": "Vidéaste passionné, je réalise des contenus pour mes restaurants, le Vovinam et des mariages. De la captation au montage, je privilégie les émotions, les moments authentiques et les formats courts. Une passion née à JBTV, l’association audiovisuelle de l’ECE, dont j’ai été vice-président.",
     "items": [
       {
         "caption": "Mariage",
-        "tall": true
+        "tall": false
       },
       {
         "caption": "Compétition de Vovinam",
@@ -349,7 +350,7 @@
       },
       {
         "caption": "Ramen, en cuisine",
-        "tall": true
+        "tall": false
       },
       {
         "caption": "Vietnam",
@@ -398,12 +399,14 @@
     ]
   },
   "contact": {
-    "title": "Travaillons ensemble",
-    "text": "Un poste de Product Designer ou de Product Owner, une mission UX/UI, de la création de contenus ou une vidéo de mariage ? Je travaille en CDI comme en freelance. Écrivez-moi.",
+    "title": "Contactez-moi",
+    "text": "Mon parcours vous intrigue ou simplement envie d’échanger ? Que ce soit autour du design, de la création visuelle ou de mon parcours entrepreneurial, je serai ravi d’en discuter avec vous. Contactez-moi !",
     "email": "hoang.viet023@gmail.com",
+    "phone": "0634604246",
     "links": [
       {
-        "label": "LinkedIn"
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/viet-h/"
       },
       {
         "label": "YouTube · VH Videography",
@@ -414,8 +417,8 @@
         "url": "https://www.instagram.com/oomori.ramen77/"
       },
       {
-        "label": "TikTok · Vovinam Noiseau",
-        "url": "https://www.tiktok.com/@vovinamnoiseau"
+        "label": "Instagram · Vovinam Noiseau",
+        "url": "https://www.instagram.com/vovinamnoiseau"
       }
     ]
   }
