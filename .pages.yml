@@ -1,0 +1,203 @@
+# Configuration de l'éditeur de contenu Pages CMS (https://app.pagescms.org)
+# Permet de modifier le site via un formulaire, sans toucher au code.
+media:
+  input: images
+  output: images
+
+content:
+  - name: site
+    label: Contenu du site
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - name: meta
+        label: Référencement (Google)
+        type: object
+        fields:
+          - { name: title, label: Titre de l'onglet, type: string }
+          - { name: description, label: Description Google, type: text }
+
+      - name: identity
+        label: Accueil
+        type: object
+        fields:
+          - { name: firstName, label: Prénom, type: string }
+          - { name: lastName, label: Nom, type: string }
+          - { name: kicker, label: Petite ligne au-dessus du nom, type: string }
+          - { name: headline, label: Grand titre (retour à la ligne = nouvelle ligne), type: text }
+          - { name: tagline, label: Phrase d'accroche, type: text }
+          - { name: skills, label: Compétences (accueil), type: string, list: true }
+          - { name: tools, label: Outils (accueil), type: string, list: true }
+          - { name: roles, label: Rôles (étiquettes), type: string, list: true }
+          - { name: heroImage, label: Grande photo d'accueil, type: image }
+          - { name: heroVideo, label: Vidéo d'accueil (MP4 courte, optionnelle), type: file }
+          - { name: cvPdf, label: CV en PDF (optionnel), type: file }
+
+      - name: manifesto
+        label: Manifeste
+        type: object
+        fields:
+          - { name: title, label: Titre, type: string }
+          - { name: text, label: Texte, type: text }
+          - { name: signature, label: Signature, type: string }
+          - { name: portrait, label: Portrait, type: image }
+
+      - name: about
+        label: En bref (accueil)
+        type: object
+        fields:
+          - { name: title, label: Titre, type: string }
+          - name: facts
+            label: Infos
+            type: object
+            list: true
+            fields:
+              - { name: label, label: Intitulé, type: string }
+              - { name: value, label: Contenu, type: text }
+
+      - name: restaurants
+        label: Restaurants
+        type: object
+        fields:
+          - { name: label, label: Étiquette, type: string }
+          - { name: title, label: Titre, type: string }
+          - { name: period, label: Période, type: string }
+          - { name: intro, label: Introduction, type: text }
+          - name: stats
+            label: Chiffres clés
+            type: object
+            list: true
+            fields:
+              - { name: value, label: Valeur, type: string }
+              - { name: label, label: Libellé, type: string }
+          - name: items
+            label: Restaurants
+            type: object
+            list: true
+            fields:
+              - { name: name, label: Nom, type: string }
+              - { name: place, label: Lieu, type: string }
+              - { name: description, label: Description, type: text }
+              - { name: image, label: Photo, type: image }
+              - { name: link, label: Site / Google Maps, type: string }
+          - { name: skills, label: Compétences, type: string, list: true }
+          - name: social
+            label: Réseaux des restaurants
+            type: object
+            list: true
+            fields:
+              - { name: label, label: Nom, type: string }
+              - { name: url, label: Adresse, type: string }
+
+      - name: design
+        label: UX/UI Design
+        type: object
+        fields:
+          - { name: label, label: Étiquette, type: string }
+          - { name: title, label: Titre, type: string }
+          - { name: period, label: Période, type: string }
+          - { name: intro, label: Introduction, type: text }
+          - name: timeline
+            label: Parcours (ESN)
+            type: object
+            list: true
+            fields:
+              - { name: company, label: Entreprise, type: string }
+              - { name: period, label: Période, type: string }
+              - { name: role, label: Poste, type: string }
+              - { name: description, label: Description, type: text }
+          - name: cases
+            label: Études de cas
+            type: object
+            list: true
+            fields:
+              - { name: title, label: Titre, type: string }
+              - { name: client, label: Client / mission, type: string }
+              - { name: problem, label: Problème, type: text }
+              - { name: approach, label: Démarche, type: text }
+              - { name: result, label: Résultat, type: string }
+              - { name: image, label: Visuel, type: image }
+          - { name: skills, label: Compétences, type: string, list: true }
+          - name: ai
+            label: Bloc IA
+            type: object
+            fields:
+              - { name: title, label: Titre, type: string }
+              - { name: period, label: Période, type: string }
+              - { name: intro, label: Introduction, type: text }
+              - { name: items, label: Points clés, type: string, list: true }
+              - { name: tools, label: Outils, type: string, list: true }
+          - name: education
+            label: Formation
+            type: object
+            list: true
+            fields:
+              - { name: school, label: École, type: string }
+              - { name: period, label: Période, type: string }
+              - { name: description, label: Description, type: text }
+
+      - name: vovinam
+        label: Vovinam
+        type: object
+        fields:
+          - { name: label, label: Étiquette, type: string }
+          - { name: title, label: Titre, type: string }
+          - { name: rank, label: Grade, type: string }
+          - { name: intro, label: Introduction, type: text }
+          - name: highlights
+            label: Chiffres
+            type: object
+            list: true
+            fields:
+              - { name: value, label: Valeur, type: string }
+              - { name: label, label: Libellé, type: string }
+          - { name: awards, label: Palmarès, type: string, list: true }
+          - { name: images, label: Photos (1 ou 2), type: image, list: true }
+
+      - name: gallery
+        label: Photo & Vidéo
+        type: object
+        fields:
+          - { name: label, label: Étiquette, type: string }
+          - { name: title, label: Titre, type: string }
+          - { name: intro, label: Introduction, type: text }
+          - name: items
+            label: Photos
+            type: object
+            list: true
+            fields:
+              - { name: src, label: Photo, type: image }
+              - { name: caption, label: Légende, type: string }
+              - { name: tall, label: Format portrait (vertical), type: boolean }
+          - name: videos
+            label: Vidéos YouTube
+            type: object
+            list: true
+            fields:
+              - { name: title, label: Titre, type: string }
+              - { name: url, label: Lien YouTube, type: string }
+          - name: channels
+            label: Mes chaînes
+            type: object
+            list: true
+            fields:
+              - { name: platform, label: Plateforme, type: string }
+              - { name: label, label: Nom, type: string }
+              - { name: url, label: Adresse, type: string }
+
+      - name: contact
+        label: Contact
+        type: object
+        fields:
+          - { name: title, label: Titre, type: string }
+          - { name: text, label: Texte, type: text }
+          - { name: email, label: E-mail, type: string }
+          - { name: phone, label: Téléphone (optionnel), type: string }
+          - name: links
+            label: Liens
+            type: object
+            list: true
+            fields:
+              - { name: label, label: Nom, type: string }
+              - { name: url, label: Adresse, type: string }
