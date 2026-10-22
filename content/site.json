@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "title": "Viet Hoang — Senior Product Designer UX/UI & Entrepreneur",
+    "description": "Senior Product Designer UX/UI (vNext, SOAT, Zenika), fondateur d'Oomori Ramen, enseignant 4e dang de Vovinam Viet Vo Dao, vidéaste et créateur de contenu."
+  },
+  "identity": {
+    "firstName": "Viet",
+    "lastName": "Hoang",
+    "kicker": "Portfolio · Île-de-France",
+    "tagline": "Je conçois des expériences fluides et utiles, à l'écran, à table et sur le tatami.",
+    "roles": [
+      "Senior Product Designer UX/UI",
+      "Fondateur d'Oomori Ramen",
+      "Enseignant Vovinam · 4e dang",
+      "Vidéaste & créateur de contenu"
+    ],
+    "heroImage": "",
+    "heroVideo": "",
+    "cvPdf": "cv/CV-Viet-Hoang.pdf",
+    "headline": "Product Designer\n& Entrepreneur",
+    "skills": [
+      "UX Research",
+      "UI Design",
+      "Design Systems",
+      "Prototypage",
+      "Ateliers",
+      "Design Ops",
+      "Management",
+      "Création de contenus",
+      "Vidéo"
+    ],
+    "tools": [
+      "Figma",
+      "FigJam",
+      "Figma Make",
+      "Claude",
+      "ChatGPT",
+      "Lovable",
+      "Photoshop",
+      "Premiere Pro"
+    ]
+  },
+  "manifesto": {
+    "title": "Hello world !",
+    "text": "Ingénieur de formation, j'ai passé dix ans à transformer des problématiques complexes en produits numériques simples et agréables. Depuis 2023, j'applique la même exigence à mes deux restaurants : parcours client, équipe, chiffres, et toute la création de contenus. Aujourd'hui, je reviens au Product Design avec une vision à la fois centrée utilisateur et orientée business, enrichie par l'IA générative.",
+    "signature": "Viet",
+    "portrait": "images/portrait.jpg"
+  },
+  "restaurants": {
+    "label": "01 — Entrepreneur",
+    "title": "Oomori Ramen, deux restaurants créés de zéro",
+    "period": "Janvier 2023 — aujourd'hui · Torcy & Lésigny (77)",
+    "intro": "Fondateur, gérant et chef cuisinier, j'ai créé et développé deux restaurants de ramen en Seine-et-Marne. J'y pilote l'équipe, les opérations, le budget et les fournisseurs, et je crée moi-même tous les contenus : photos, vidéos, storytelling et réseaux sociaux. L'expérience client y est améliorée en continu, comme un vrai produit.",
+    "stats": [
+      {
+        "value": "2",
+        "label": "restaurants créés"
+      },
+      {
+        "value": "10",
+        "label": "collaborateurs managés"
+      },
+      {
+        "value": "3 ans",
+        "label": "d'entrepreneuriat"
+      },
+      {
+        "value": "3",
+        "label": "réseaux sociaux animés"
+      }
+    ],
+    "items": [
+      {
+        "name": "Oomori Ramen Torcy",
+        "place": "Torcy, Seine-et-Marne",
+        "description": "Le premier restaurant Oomori Ramen, à Torcy. Ajoutez ici votre concept et votre spécialité maison.",
+        "image": "",
+        "link": "https://www.instagram.com/oomori.ramen77/"
+      },
+      {
+        "name": "Oomori Ramen Lésigny",
+        "place": "Lésigny, Seine-et-Marne",
+        "description": "Le deuxième restaurant, à Lésigny : même recette, même exigence, avec une équipe formée pour garder la même qualité d'accueil.",
+        "image": "",
+        "link": "https://www.instagram.com/oomori.ramen77/"
+      }
+    ],
+    "skills": [
+      "Management d'équipe",
+      "Recrutement & formation",
+      "Gestion budgétaire",
+      "Optimisation des process",
+      "Parcours client",
+      "Identité visuelle",
+      "Création de contenus (photo, vidéo, storytelling)",
+      "Communication digitale",
+      "Événements marketing"
+    ],
+    "social": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/oomori.ramen77/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@oomori.ramen77"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/oomori.ramen77"
+      }
+    ]
+  },
+  "design": {
+    "label": "02 — Product Designer UX/UI",
+    "title": "10 ans à concevoir des produits numériques",
+    "period": "Octobre 2012 — décembre 2022 · ESN, Paris",
+    "intro": "Au sein d'équipes Agile pluridisciplinaires, j'ai accompagné des grands groupes et des startups sur tout le cycle de conception : ateliers UX, interviews, personas, parcours, wireframes, maquettes, tests, Design Systems et handoff aux développeurs.",
+    "timeline": [
+      {
+        "company": "Zenika",
+        "period": "Janv. 2018 — déc. 2022",
+        "role": "Product Designer & Manager d'équipe",
+        "description": "MVP en mode Labs pour BNP Paribas, Club Med, AXA, MNT, TF1… Création de Design Systems, structuration des méthodes Design Ops et accompagnement de l'équipe design."
+      },
+      {
+        "company": "SOAT",
+        "period": "Janv. 2014 — déc. 2017",
+        "role": "UX/UI Designer",
+        "description": "Conception d'applications mobiles et tablettes grand public (Windows Phone, Windows 8 et 10) pour des marques médias et services, des parcours jusqu'aux maquettes finales."
+      },
+      {
+        "company": "vNext",
+        "period": "Oct. 2012 — déc. 2013",
+        "role": "UI Designer",
+        "description": "Premières armes en conception d'interfaces : applications mobiles, maquettes UI et prototypes interactifs pour des clients grand public."
+      }
+    ],
+    "cases": [
+      {
+        "title": "Club Med EasyArrival & GMFeedback",
+        "client": "Club Med · Zenika",
+        "problem": "EasyArrival permet de préparer son arrivée au village en choisissant ses services en ligne. Le socle technique étant décommissionné, il fallait refondre l'application et l'enrichir.",
+        "approach": "MVP réalisé en 4 sprints, puis passage en mode delivery. En parallèle, conception de GMFeedback pour recueillir l'avis des clients après leur séjour.",
+        "result": "Livré avant la saison d'hiver, en production dans les villages",
+        "image": "images/case-clubmed.jpg"
+      },
+      {
+        "title": "CIRI2, déclaration du lobbying",
+        "client": "BNP Paribas · Zenika",
+        "problem": "La loi Sapin 2 impose de déclarer de façon systématique les actions de lobbying. Il fallait rendre ce processus rapide et facile pour des utilisateurs peu habitués au reporting.",
+        "approach": "Conception et mise en production du MVP en 6 sprints, sous de fortes contraintes légales de calendrier.",
+        "result": "MVP livré en 6 sprints",
+        "image": "images/case-bnp.jpg"
+      },
+      {
+        "title": "Serious game du Software Engineering Summit",
+        "client": "AXA · Zenika",
+        "problem": "Le rendez-vous annuel de l'IT mondial d'AXA voulait favoriser les échanges entre les équipes dev, sécurité et exploitation (DevSecOps).",
+        "approach": "Conception complète (concept, contenu, marketing) d'un serious game de défis techniques, quiz et quêtes annexes, et co-animation des 3 jours de conférence.",
+        "result": "250+ joueurs captivés pendant plus de 8 h",
+        "image": "images/case-axa.jpg"
+      },
+      {
+        "title": "Mobiliz, plateforme militante",
+        "client": "MNT · Zenika",
+        "problem": "La MNT souhaitait animer la vie militante et encourager la participation de ses adhérents.",
+        "approach": "Publication de contenus, débats et réactions, initiatives locales, agenda partagé, actualités et vidéos. Un MVP en mode Labs, puis une V2.",
+        "result": "MVP, puis V2 : Mobiliz est en ligne",
+        "image": "images/case-mnt.jpg"
+      },
+      {
+        "title": "Drive, messagerie métier",
+        "client": "IWD · Zenika",
+        "problem": "Les clients d'IWD échangeaient leurs stratégies merchandising sur Messenger ou WhatsApp : aucune sécurité, aucune synchronisation, aucune donnée exploitable.",
+        "approach": "MVP mobile en 4 sprints : discussion, contacts, partage d'images, synchronisation web et actions métier dans l'application.",
+        "result": "MVP mobile livré en 4 sprints",
+        "image": "images/case-iwd.jpg"
+      },
+      {
+        "title": "Portail investisseur & refonte",
+        "client": "Domos FS · Zenika",
+        "problem": "Cet éditeur SaaS pour fonds d'investissement voulait valider ses pratiques de design pour un nouveau portail, puis refondre son application historique.",
+        "approach": "Cadrage produit, priorisation, sensibilisation UX/UI, système de navigation transverse et maquettes interactives complètes pour les développeurs.",
+        "result": "Développement fortement accéléré, solution ouverte à des clients pilotes",
+        "image": "images/case-domos.jpg"
+      },
+      {
+        "title": "Ethis, plateforme de l'habitat social",
+        "client": "Delphis · Zenika",
+        "problem": "Ce pôle R&D de l'habitat social avait besoin d'une plateforme pour les membres de son réseau.",
+        "approach": "Co-conception et maquettage du site web et de l'extranet métier, développement, puis administration du contenu avec l'équipe marketing.",
+        "result": "Plateforme ouverte aux premiers utilisateurs",
+        "image": "images/case-delphis.jpg"
+      },
+      {
+        "title": "Testing 360°",
+        "client": "Unify (TF1) · Zenika",
+        "problem": "Unify (aufeminin, Marmiton, Doctissimo…) souhaitait cadrer un module de publication d'essais de produits.",
+        "approach": "Ateliers de co-conception à distance avec les équipes métier des grandes marques du groupe : objectifs, fonctionnalités, priorisation et dossier de synthèse.",
+        "result": "Démarche Design Thinking adoptée pour les projets suivants",
+        "image": "images/case-unify.jpg"
+      },
+      {
+        "title": "Application de démonstration Li-Fi",
+        "client": "Lifineo · Zenika",
+        "problem": "Une startup de transmission de données par LED devait présenter sa technologie : géolocalisation indoor, messages, alertes.",
+        "approach": "Ateliers de co-conception, définition du périmètre du MVP, maquettage complet et chiffrage.",
+        "result": "Prototype à l'appui d'un dossier de financement BPI",
+        "image": "images/case-lifineo.jpg"
+      },
+      {
+        "title": "La Fourchette",
+        "client": "Windows Phone 8 & Windows 8",
+        "problem": "Conception de l'interface de l'application de réservation de restaurants.",
+        "approach": "",
+        "result": "",
+        "image": "images/case-lafourchette.jpg"
+      },
+      {
+        "title": "Eurosport News",
+        "client": "Windows Phone 8",
+        "problem": "Conception de l'application d'actualité sportive.",
+        "approach": "",
+        "result": "",
+        "image": "images/case-eurosport.jpg"
+      },
+      {
+        "title": "Le Figaro",
+        "client": "Windows 10",
+        "problem": "Conception de l'application d'information pour tablette et PC.",
+        "approach": "",
+        "result": "",
+        "image": "images/case-figaro.jpg"
+      },
+      {
+        "title": "La Poste Mobile by Universal",
+        "client": "Windows Phone 10",
+        "problem": "Conception de l'application de streaming musical.",
+        "approach": "",
+        "result": "",
+        "image": "images/case-laposte.jpg"
+      },
+      {
+        "title": "Application interne Radio France",
+        "client": "Mobile",
+        "problem": "Conception d'une application interne pour les équipes de Radio France.",
+        "approach": "",
+        "result": "",
+        "image": "images/case-radiofrance.jpg"
+      }
+    ],
+    "skills": [
+      "Recherche utilisateur",
+      "Ateliers UX",
+      "Personas & parcours",
+      "Wireframes & prototypes",
+      "Design Systems & Design Tokens",
+      "Design Ops",
+      "Agile Scrum / Kanban",
+      "Figma, Figma Make & FigJam AI",
+      "IA générative (Claude, ChatGPT, Gemini, Lovable)",
+      "Adobe Photoshop & Premiere Pro",
+      "HTML / CSS, notions de Vue.js"
+    ],
+    "ai": {
+      "title": "Product Design augmenté par l'IA",
+      "period": "Depuis janvier 2026",
+      "intro": "Veille et expérimentation continues des outils d'IA générative pour moderniser chaque étape de mon workflow de conception.",
+      "items": [
+        "Discovery accélérée et génération d'hypothèses",
+        "Personas, user flows, journey maps et user stories assistés",
+        "Synthèse automatique d'interviews et de tests utilisateurs",
+        "Variantes d'interfaces et explorations graphiques",
+        "Wireframes et prototypes assistés par IA",
+        "Documentation automatisée de Design Systems",
+        "Handoff facilité avec les équipes de développement"
+      ],
+      "tools": [
+        "Claude",
+        "ChatGPT",
+        "Gemini",
+        "Figma AI",
+        "Figma Make",
+        "FigJam AI",
+        "Lovable",
+        "GPT Image"
+      ]
+    },
+    "education": [
+      {
+        "school": "ECE Paris",
+        "period": "2007 — 2012",
+        "description": "École d'ingénieurs généraliste et high-tech. Majeure santé, mineure audiovisuel & médias numériques, spécialisation design, innovation et entrepreneuriat."
+      }
+    ]
+  },
+  "vovinam": {
+    "label": "03 — Vovinam Việt Võ Đạo",
+    "title": "25 ans de pratique, l'art de transmettre",
+    "rank": "4e dang",
+    "intro": "Enseignant pour adultes et enfants dans les clubs de Pontault-Combault (77) et de Noiseau (94), dont je suis aussi trésorier. J'organise des compétitions nationales et internationales, de 100 à plus de 1 000 participants, et je gère bénévolement les chaînes vidéo du club : tournage, montage et formats courts.",
+    "highlights": [
+      {
+        "value": "4e",
+        "label": "dang"
+      },
+      {
+        "value": "25+",
+        "label": "ans de pratique"
+      },
+      {
+        "value": "12",
+        "label": "médailles internationales"
+      }
+    ],
+    "awards": [
+      "Coupe du monde 2024 : or & argent",
+      "Coupe du monde 2018 : argent & bronze",
+      "Coupe du monde 2014 : argent & bronze",
+      "Coupe du monde 2006 : 2 × bronze",
+      "Coupe d'Europe 2022 : argent",
+      "Coupe d'Europe 2016 : or & argent",
+      "Coupe d'Europe 2008 : or"
+    ],
+    "images": [
+      "images/vovinam-1.jpg"
+    ]
+  },
+  "gallery": {
+    "label": "04 — Photo & Vidéo",
+    "title": "Le regard",
+    "intro": "Vidéaste de mariage à mon compte, créateur de contenus pour mes restaurants et pour le Vovinam, je filme et monte en autodidacte, avec une préférence pour l'émotion et les formats courts. Une passion née à JBTV, l'association audiovisuelle de l'ECE, dont j'ai été vice-président.",
+    "items": [
+      {
+        "src": "",
+        "caption": "Mariage",
+        "tall": true
+      },
+      {
+        "src": "",
+        "caption": "Compétition de Vovinam",
+        "tall": false
+      },
+      {
+        "src": "",
+        "caption": "Japon",
+        "tall": false
+      },
+      {
+        "src": "",
+        "caption": "Ramen, en cuisine",
+        "tall": true
+      },
+      {
+        "src": "",
+        "caption": "Vietnam",
+        "tall": false
+      },
+      {
+        "src": "",
+        "caption": "Événement sportif",
+        "tall": false
+      }
+    ],
+    "videos": [
+      {
+        "title": "Teaser Vovinam Viet Vo Dao",
+        "url": "https://youtu.be/PLBAAe_e2Og"
+      },
+      {
+        "title": "Vidéo Vovinam Viet Vo Dao",
+        "url": "https://youtu.be/gMQ9Ro-7kk4"
+      },
+      {
+        "title": "Teaser compétition Vovinam",
+        "url": "https://youtu.be/ArfKh4cKQXs"
+      }
+    ],
+    "channels": [
+      {
+        "label": "VH Videography · Mariages",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/@vhvideography1478"
+      },
+      {
+        "label": "Vovinam Noiseau",
+        "platform": "TikTok",
+        "url": "https://www.tiktok.com/@vovinamnoiseau"
+      },
+      {
+        "label": "Oomori Ramen",
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/oomori.ramen77/"
+      },
+      {
+        "label": "Oomori Ramen",
+        "platform": "TikTok",
+        "url": "https://www.tiktok.com/@oomori.ramen77"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Travaillons ensemble",
+    "text": "Un poste de Product Designer ou de Product Owner, une mission UX/UI, de la création de contenus ou une vidéo de mariage ? Je travaille en CDI comme en freelance. Écrivez-moi.",
+    "email": "hoang.viet023@gmail.com",
+    "phone": "",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": ""
+      },
+      {
+        "label": "YouTube · VH Videography",
+        "url": "https://www.youtube.com/@vhvideography1478"
+      },
+      {
+        "label": "Instagram · Oomori Ramen",
+        "url": "https://www.instagram.com/oomori.ramen77/"
+      },
+      {
+        "label": "TikTok · Vovinam Noiseau",
+        "url": "https://www.tiktok.com/@vovinamnoiseau"
+      }
+    ]
+  },
+  "about": {
+    "title": "En bref",
+    "facts": [
+      {
+        "label": "Formation",
+        "value": "Ingénieur ECE Paris (2007 — 2012), spécialisation design, innovation & entrepreneuriat"
+      },
+      {
+        "label": "Langues",
+        "value": "Français (maternelle), vietnamien (courant), anglais (notions)"
+      },
+      {
+        "label": "Basé à",
+        "value": "Île-de-France, mobile et habitué au travail à distance"
+      },
+      {
+        "label": "En dehors",
+        "value": "Vovinam, escalade, volley-ball, foot à 5, voyages en Asie, en Europe et aux États-Unis"
+      }
+    ]
+  }
+}
