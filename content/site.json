@@ -87,16 +87,18 @@
     ],
     "items": [
       {
-        "name": "Oomori Ramen Torcy",
-        "place": "Torcy, Seine-et-Marne",
-        "description": "Le premier restaurant Oomori Ramen, à Torcy. Ajoutez ici votre concept et votre spécialité maison.",
-        "link": "https://www.instagram.com/oomori.ramen77/"
-      },
-      {
         "name": "Oomori Ramen Lésigny",
         "place": "Lésigny, Seine-et-Marne",
-        "description": "Le deuxième restaurant, à Lésigny : même recette, même exigence, avec une équipe formée pour garder la même qualité d'accueil.",
-        "link": "https://www.instagram.com/oomori.ramen77/"
+        "description": "Le premier restaurant Oomori Ramen, à Lésigny, vous propose des ramens japonais authentiques, des nouilles artisanales et des bouillons mijotés pendant plus de 24 heures. Profitez également de nos karaoké box privatives pour partager un moment convivial entre amis ou en famille, autour d’un bon ramen et de vos chansons préférées !",
+        "image": "images/lesigny-1.jpg",
+        "link": "https://share.google/qTyRVuNqpA9xMlhwN"
+      },
+      {
+        "name": "Oomori Ramen Torcy",
+        "place": "Torcy, Seine-et-Marne",
+        "description": "Le deuxième restaurant Oomori Ramen, à Torcy, vous propose la même recette, des nouilles artisanales et des bouillons mijotés pendant plus de 24 heures. Dans un espace plus grand et convivial, notre équipe met tout en œuvre pour vous offrir la même qualité d’accueil et une expérience ramen authentique, fidèle à l’esprit Oomori.",
+        "image": "images/lesigny.jpg",
+        "link": "https://share.google/e5oJasJTztxSB4l1v"
       }
     ],
     "skills": [
@@ -128,7 +130,7 @@
   "design": {
     "label": "02 - Product Designer UX/UI",
     "title": "Du besoin utilisateur au produit numérique",
-    "period": "Octobre 2012 — décembre 2022 · ESN, Paris",
+    "period": "Octobre 2012 - décembre 2022 · Diverses ESN, Paris",
     "intro": "Au sein d’équipes Agile pluridisciplinaires, j’ai accompagné des grands groupes comme des startups tout au long du cycle de conception produit. En collaboration étroite avec les Product Owners, les développeurs et les parties prenantes, j’ai animé des ateliers UX, mené des interviews utilisateurs, défini des personas et des parcours, conçu des wireframes et des maquettes, organisé des tests utilisateurs, structuré des Design Systems et assuré le handoff aux équipes de développement.",
     "timeline": [
       {
