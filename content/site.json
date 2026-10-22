@@ -7,44 +7,64 @@
     "firstName": "Viet",
     "lastName": "Hoang",
     "kicker": "Portfolio · Île-de-France",
+    "headline": "Entrepreneur\n& Product Designer",
     "tagline": "Je conçois des expériences fluides et utiles, à l'écran, à table et sur le tatami.",
-    "roles": [
-      "Senior Product Designer UX/UI",
-      "Fondateur d'Oomori Ramen",
-      "Enseignant Vovinam · 4e dang",
-      "Vidéaste & créateur de contenu"
-    ],
-    "heroImage": "",
-    "heroVideo": "",
-    "cvPdf": "cv/CV-Viet-Hoang.pdf",
-    "headline": "Product Designer\n& Entrepreneur",
     "skills": [
       "UX Research",
       "UI Design",
       "Design Systems",
       "Prototypage",
       "Ateliers",
-      "Design Ops",
       "Management",
       "Création de contenus",
-      "Vidéo"
+      "Vidéo",
+      "Photo",
+      "Communication"
     ],
     "tools": [
       "Figma",
-      "FigJam",
-      "Figma Make",
       "Claude",
-      "ChatGPT",
       "Lovable",
       "Photoshop",
       "Premiere Pro"
+    ],
+    "roles": [
+      "Designer UX/UI",
+      "Fondateur d'Oomori Ramen",
+      "Enseignant Vovinam · 4e dang",
+      "Vidéaste & Photographe"
     ]
   },
   "manifesto": {
     "title": "Hello world !",
-    "text": "Ingénieur de formation, j'ai passé dix ans à transformer des problématiques complexes en produits numériques simples et agréables. Depuis 2023, j'applique la même exigence à mes deux restaurants : parcours client, équipe, chiffres, et toute la création de contenus. Aujourd'hui, je reviens au Product Design avec une vision à la fois centrée utilisateur et orientée business, enrichie par l'IA générative.",
+    "text": "Ingénieur de formation, j'ai passé dix ans à transformer des problématiques complexes en produits numériques simples et agréables. Depuis 2023, j'applique la même exigence dans mes deux restaurants : parcours client, équipe et toute la création de contenus. Aujourd'hui, je reviens au Product Design avec une vision à la fois centrée utilisateur et orientée business, enrichie par l'IA générative.",
     "signature": "Viet",
     "portrait": "images/portrait.jpg"
+  },
+  "about": {
+    "title": "En bref",
+    "facts": [
+      {
+        "label": "Formation",
+        "value": "Ingénieur ECE Paris (2007-2012), spécialisation design, innovation & entrepreneuriat"
+      },
+      {
+        "label": "Dispo",
+        "value": "ASAP"
+      },
+      {
+        "label": "Basé en",
+        "value": "Île-de-France, mobile et habitué au travail à distance"
+      },
+      {
+        "label": "Sport",
+        "value": "Vovinam, Escalade, Volley-ball, Foot à 5,"
+      },
+      {
+        "label": "Voyage",
+        "value": "Asie (Vietnam, Singapour, Hong-Kong, Japon, Cambodge, Maldives, Sri-Lanka), Europe et Amérique du Nord"
+      }
+    ]
   },
   "restaurants": {
     "label": "01 — Entrepreneur",
@@ -74,14 +94,12 @@
         "name": "Oomori Ramen Torcy",
         "place": "Torcy, Seine-et-Marne",
         "description": "Le premier restaurant Oomori Ramen, à Torcy. Ajoutez ici votre concept et votre spécialité maison.",
-        "image": "",
         "link": "https://www.instagram.com/oomori.ramen77/"
       },
       {
         "name": "Oomori Ramen Lésigny",
         "place": "Lésigny, Seine-et-Marne",
         "description": "Le deuxième restaurant, à Lésigny : même recette, même exigence, avec une équipe formée pour garder la même qualité d'accueil.",
-        "image": "",
         "link": "https://www.instagram.com/oomori.ramen77/"
       }
     ],
@@ -213,40 +231,30 @@
         "title": "La Fourchette",
         "client": "Windows Phone 8 & Windows 8",
         "problem": "Conception de l'interface de l'application de réservation de restaurants.",
-        "approach": "",
-        "result": "",
         "image": "images/case-lafourchette.jpg"
       },
       {
         "title": "Eurosport News",
         "client": "Windows Phone 8",
         "problem": "Conception de l'application d'actualité sportive.",
-        "approach": "",
-        "result": "",
         "image": "images/case-eurosport.jpg"
       },
       {
         "title": "Le Figaro",
         "client": "Windows 10",
         "problem": "Conception de l'application d'information pour tablette et PC.",
-        "approach": "",
-        "result": "",
         "image": "images/case-figaro.jpg"
       },
       {
         "title": "La Poste Mobile by Universal",
         "client": "Windows Phone 10",
         "problem": "Conception de l'application de streaming musical.",
-        "approach": "",
-        "result": "",
         "image": "images/case-laposte.jpg"
       },
       {
         "title": "Application interne Radio France",
         "client": "Mobile",
         "problem": "Conception d'une application interne pour les équipes de Radio France.",
-        "approach": "",
-        "result": "",
         "image": "images/case-radiofrance.jpg"
       }
     ],
@@ -333,32 +341,26 @@
     "intro": "Vidéaste de mariage à mon compte, créateur de contenus pour mes restaurants et pour le Vovinam, je filme et monte en autodidacte, avec une préférence pour l'émotion et les formats courts. Une passion née à JBTV, l'association audiovisuelle de l'ECE, dont j'ai été vice-président.",
     "items": [
       {
-        "src": "",
         "caption": "Mariage",
         "tall": true
       },
       {
-        "src": "",
         "caption": "Compétition de Vovinam",
         "tall": false
       },
       {
-        "src": "",
         "caption": "Japon",
         "tall": false
       },
       {
-        "src": "",
         "caption": "Ramen, en cuisine",
         "tall": true
       },
       {
-        "src": "",
         "caption": "Vietnam",
         "tall": false
       },
       {
-        "src": "",
         "caption": "Événement sportif",
         "tall": false
       }
@@ -379,23 +381,23 @@
     ],
     "channels": [
       {
-        "label": "VH Videography · Mariages",
         "platform": "YouTube",
+        "label": "VH Videography · Mariages",
         "url": "https://www.youtube.com/@vhvideography1478"
       },
       {
-        "label": "Vovinam Noiseau",
         "platform": "TikTok",
+        "label": "Vovinam Noiseau",
         "url": "https://www.tiktok.com/@vovinamnoiseau"
       },
       {
-        "label": "Oomori Ramen",
         "platform": "Instagram",
+        "label": "Oomori Ramen",
         "url": "https://www.instagram.com/oomori.ramen77/"
       },
       {
-        "label": "Oomori Ramen",
         "platform": "TikTok",
+        "label": "Oomori Ramen",
         "url": "https://www.tiktok.com/@oomori.ramen77"
       }
     ]
@@ -404,11 +406,9 @@
     "title": "Travaillons ensemble",
     "text": "Un poste de Product Designer ou de Product Owner, une mission UX/UI, de la création de contenus ou une vidéo de mariage ? Je travaille en CDI comme en freelance. Écrivez-moi.",
     "email": "hoang.viet023@gmail.com",
-    "phone": "",
     "links": [
       {
-        "label": "LinkedIn",
-        "url": ""
+        "label": "LinkedIn"
       },
       {
         "label": "YouTube · VH Videography",
@@ -421,27 +421,6 @@
       {
         "label": "TikTok · Vovinam Noiseau",
         "url": "https://www.tiktok.com/@vovinamnoiseau"
-      }
-    ]
-  },
-  "about": {
-    "title": "En bref",
-    "facts": [
-      {
-        "label": "Formation",
-        "value": "Ingénieur ECE Paris (2007 — 2012), spécialisation design, innovation & entrepreneuriat"
-      },
-      {
-        "label": "Langues",
-        "value": "Français (maternelle), vietnamien (courant), anglais (notions)"
-      },
-      {
-        "label": "Basé à",
-        "value": "Île-de-France, mobile et habitué au travail à distance"
-      },
-      {
-        "label": "En dehors",
-        "value": "Vovinam, escalade, volley-ball, foot à 5, voyages en Asie, en Europe et aux États-Unis"
       }
     ]
   }
