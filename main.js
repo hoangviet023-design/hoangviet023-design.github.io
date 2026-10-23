@@ -71,7 +71,7 @@ const VIEWS = {
       [H("entrepreneur"), "01", "Oomori", d.restaurants?.title],
       [H("design"), "02", "Product Design", d.design?.title],
       [H("vovinam"), "03", "Vovinam", d.vovinam?.title],
-      [H("photo"), "04", "Photo/Vidéo", d.gallery?.intro]
+      [H("photo"), "04", "Photo/Vidéo", d.gallery?.title]
     ];
     const headline = (id.headline || id.roles?.[0] || "").split(/\n/);
     return `
