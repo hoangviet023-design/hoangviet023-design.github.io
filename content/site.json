@@ -67,7 +67,9 @@
     "title": "Une passion devenue réalité",
     "period": "Janvier 2023 - aujourd'hui · Torcy & Lésigny (77)",
     "intro": "Fondateur, gérant et chef cuisinier, j'ai créé et développé deux restaurants de ramen en Seine-et-Marne. J'y pilote l'équipe, les opérations, le budget et les fournisseurs, et je crée moi-même tous les contenus : photos, vidéos, storytelling et réseaux sociaux. L'expérience client y est améliorée en continu, comme un vrai produit.",
-    "images": [],
+    "images": [
+      "images/638312299_18535124854064602_75215871596012495_n.jpg"
+    ],
     "missions": [
       "Création et pilotage de deux établissements, avec une équipe de 10 collaborateurs",
       "Recrutement, formation, organisation des équipes et optimisation des process",
@@ -347,27 +349,32 @@
     "intro": "Vidéaste passionné, je réalise des contenus pour mes restaurants, le Vovinam et des mariages. De la captation au montage, je privilégie les émotions, les moments authentiques et les formats courts. Une passion née à JBTV, l’association audiovisuelle de l’ECE, dont j’ai été vice-président.",
     "items": [
       {
+        "src": "images/Mariage_ML_Traitement_5.jpg",
         "caption": "Mariage",
-        "tall": false
+        "tall": true
       },
       {
-        "caption": "Compétition de Vovinam",
-        "tall": false
+        "src": "images/IMG_9851.jpg",
+        "caption": "Mariage ",
+        "tall": true
       },
       {
         "caption": "Japon",
-        "tall": false
+        "tall": true
       },
       {
-        "caption": "Ramen, en cuisine",
-        "tall": false
+        "src": "images/535880539_17979126944897634_4517395198328797597_n.jpg",
+        "caption": "Ramen",
+        "tall": true
       },
       {
-        "caption": "Vietnam",
-        "tall": false
+        "src": "images/accueil_img2.jpg",
+        "caption": "Vovinam",
+        "tall": true
       },
       {
-        "caption": "Événement sportif",
+        "src": "images/SriLanka2018_N004.jpg",
+        "caption": "Voyage ",
         "tall": false
       }
     ],
