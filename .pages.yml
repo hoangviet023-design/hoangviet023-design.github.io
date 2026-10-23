@@ -64,6 +64,8 @@ content:
           - { name: title, label: Titre, type: string }
           - { name: period, label: Période, type: string }
           - { name: intro, label: Introduction, type: text }
+          - { name: images, label: Photos (1 ou 2), type: image, list: true }
+          - { name: missions, label: Mon rôle, type: string, list: true }
           - name: stats
             label: Chiffres clés
             type: object
