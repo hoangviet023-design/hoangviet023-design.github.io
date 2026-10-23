@@ -63,10 +63,18 @@
     ]
   },
   "restaurants": {
-    "label": "01 - Entrepreneur",
+    "label": "01 - Oomori Ramen",
     "title": "Une passion devenue réalité",
     "period": "Janvier 2023 - aujourd'hui · Torcy & Lésigny (77)",
     "intro": "Fondateur, gérant et chef cuisinier, j'ai créé et développé deux restaurants de ramen en Seine-et-Marne. J'y pilote l'équipe, les opérations, le budget et les fournisseurs, et je crée moi-même tous les contenus : photos, vidéos, storytelling et réseaux sociaux. L'expérience client y est améliorée en continu, comme un vrai produit.",
+    "images": [],
+    "missions": [
+      "Création et pilotage de deux établissements, avec une équipe de 10 collaborateurs",
+      "Recrutement, formation, organisation des équipes et optimisation des process",
+      "Gestion budgétaire, suivi des performances, fournisseurs et partenaires",
+      "Conception et amélioration du parcours client à partir des retours clients",
+      "Identité visuelle, communication digitale, création de contenus et événements marketing"
+    ],
     "stats": [
       {
         "value": "2",
@@ -334,7 +342,7 @@
     ]
   },
   "gallery": {
-    "label": "04 - Photo & Vidéo",
+    "label": "04 - Photo/Vidéo",
     "title": "Capturer l’instant",
     "intro": "Vidéaste passionné, je réalise des contenus pour mes restaurants, le Vovinam et des mariages. De la captation au montage, je privilégie les émotions, les moments authentiques et les formats courts. Une passion née à JBTV, l’association audiovisuelle de l’ECE, dont j’ai été vice-président.",
     "items": [
