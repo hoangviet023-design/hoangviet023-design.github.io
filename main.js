@@ -11,10 +11,10 @@ const NO_EMBEDS = !!window.NO_EMBEDS;
 
 const PAGES = [
   { id: "home", href: "index.html", label: "Accueil" },
-  { id: "entrepreneur", href: "entrepreneur.html", label: "Entrepreneur" },
+  { id: "entrepreneur", href: "entrepreneur.html", label: "Oomori" },
   { id: "design", href: "design.html", label: "Design" },
   { id: "vovinam", href: "vovinam.html", label: "Vovinam" },
-  { id: "photo", href: "photo.html", label: "Photo" },
+  { id: "photo", href: "photo.html", label: "Photo/Vidéo" },
   { id: "contact", href: "contact.html", label: "Contact" }
 ];
 if (HASH) PAGES.forEach(p => (p.href = "#" + p.id));
@@ -68,10 +68,10 @@ const VIEWS = {
   home(d) {
     const id = d.identity || {}, m = d.manifesto || {};
     const tiles = [
-      [H("entrepreneur"), "01", "Entrepreneur", d.restaurants?.title],
+      [H("entrepreneur"), "01", "Oomori", d.restaurants?.title],
       [H("design"), "02", "Product Design", d.design?.title],
       [H("vovinam"), "03", "Vovinam", d.vovinam?.title],
-      [H("photo"), "04", "Photo & vidéo", d.gallery?.intro]
+      [H("photo"), "04", "Photo/Vidéo", d.gallery?.intro]
     ];
     const headline = (id.headline || id.roles?.[0] || "").split(/\n/);
     return `
@@ -118,9 +118,21 @@ const VIEWS = {
 
   entrepreneur(d) {
     const r = d.restaurants || {};
+    const rImgs = (r.images || []).filter(Boolean).slice(0, 2);
+    if (!rImgs.length) rImgs.push("");
     return pageHero(r) + `
-    <section class="wrap section">${stats(r.stats)}</section>
-    <section class="wrap section">
+    <section class="wrap section vovinam">
+      <div class="vovinam__images ${rImgs.length > 1 ? "is-double" : ""}">
+        ${rImgs.map((s, i) => `<div class="reveal" style="--d:${i * .15}s"><div class="tilt" data-tilt="5" style="border-radius:18px">${frame(s, "Oomori Ramen", "Oomori Ramen")}</div></div>`).join("")}
+      </div>
+      <div>
+        ${stats(r.stats, "stats--2")}
+        ${(r.missions || []).length ? `<h2 class="subhead reveal" style="margin:4rem 0 0">Mon rôle</h2>
+        <ul class="awards missions">${r.missions.map((t, i) => `<li class="reveal" style="--d:${i * .05}s"><b aria-hidden="true">✦</b><span>${esc(t)}</span></li>`).join("")}</ul>` : ""}
+      </div>
+    </section>
+    <section class="wrap section section--line">
+      <h2 class="subhead reveal">Les restaurants</h2>
       <div class="venues">
         ${(r.items || []).map((v, i) => {
           const open = v.link ? `<a class="venue reveal" href="${esc(v.link)}" target="_blank" rel="noopener" style="--d:${i * .12}s">` : `<div class="venue reveal" style="--d:${i * .12}s">`;
