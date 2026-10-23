@@ -368,3 +368,8 @@ body.is-entering #app { opacity: 0; transform: translateY(24px); }
 .nav:not(.is-solid) .nav__toggle { color: #fff; }
 @media (max-width: 900px) { .nav:not(.is-solid) .nav__menu { background: rgba(16,19,46,.97); backdrop-filter: none; } }
 .video__frame--ph { background: radial-gradient(80% 90% at 30% 20%, rgba(255,134,184,.35), transparent 60%), radial-gradient(70% 80% at 90% 100%, rgba(80,90,200,.45), transparent 60%), var(--bg-2); }
+
+.stats--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.missions li { grid-template-columns: 28px 1fr; }
+.missions b { font-size: .9rem; color: var(--accent); }
+.missions span { color: var(--text); }
